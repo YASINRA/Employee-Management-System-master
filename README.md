@@ -3,7 +3,7 @@ Employee Management System made in Laravel with AdminLTE Panel.
 
 Steps for Installtion
 ```
-git clone https://github.com/LaravelProjects/Employee-Management-System.git employee-mgmt-system
+git clone https://github.com/YASINRA/Employee-Management-System-master
 cd employee-mgmt-system
 composer install
 cp .env.example .env
